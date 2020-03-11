@@ -1,0 +1,13 @@
+C:\Users\LabUser02\Source\Repos\Repository\Repository\bin\Debug\Repository.exe.config
+C:\Users\LabUser02\Source\Repos\Repository\Repository\bin\Debug\Repository.exe
+C:\Users\LabUser02\Source\Repos\Repository\Repository\bin\Debug\Repository.pdb
+C:\Users\LabUser02\Source\Repos\Repository\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\LabUser02\Source\Repos\Repository\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\LabUser02\Source\Repos\Repository\Repository\obj\Debug\Repository.exe
+C:\Users\LabUser02\Source\Repos\Repository\Repository\obj\Debug\Repository.pdb
+C:\Users\Ruben\Desktop\C#\Repository\Repository\bin\Debug\Repository.exe.config
+C:\Users\Ruben\Desktop\C#\Repository\Repository\bin\Debug\Repository.exe
+C:\Users\Ruben\Desktop\C#\Repository\Repository\bin\Debug\Repository.pdb
+C:\Users\Ruben\Desktop\C#\Repository\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\C#\Repository\Repository\obj\Debug\Repository.exe
+C:\Users\Ruben\Desktop\C#\Repository\Repository\obj\Debug\Repository.pdb
