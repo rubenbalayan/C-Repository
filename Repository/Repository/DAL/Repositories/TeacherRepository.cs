@@ -13,6 +13,7 @@ namespace Repository.DAL.Repositories
         public TeacherRepository(IList<TeacherModel> _context)
         {
             context = _context;
+
         }
 
         public bool LocateStudents(int teacherID, IList<StudentModel> students)
@@ -21,6 +22,8 @@ namespace Repository.DAL.Repositories
             int idx = context.IndexOf(context.FirstOrDefault(x => x.Id == teacherID));
             if (students.Any())
             {
+                context[idx].StudList = new List<StudentModel>();
+
                 foreach (var item in students)
                 {
                     if (context[idx].Grade == item.Grade)
